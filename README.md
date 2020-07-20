@@ -35,4 +35,4 @@ $ flutter run
 
 ## Install APK
 
-Faça download do .apk nesse link ...
+Faça download do .apk nesse link [clique aqui!](https://drive.google.com/file/d/121GapxP61xaUScCj0LSQEw4cTC5IYzwT/view?usp=sharing)
