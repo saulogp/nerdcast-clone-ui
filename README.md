@@ -21,7 +21,7 @@ $ git clone https://github.com/saulogp/nerdcast-clone-ui.git
 Para instalar as dependências necessárias  execute o comando abaixo.
 
 ```
-$ cd find-a-table
+$ cd nerdcast-clone-ui
 $ flutter pub get
 ```
 
@@ -35,4 +35,4 @@ $ flutter run
 
 ## Install APK
 
-Faça download do .apk nesse link ...
+Faça download do .apk nesse link [clique aqui!](https://drive.google.com/file/d/121GapxP61xaUScCj0LSQEw4cTC5IYzwT/view?usp=sharing)
