@@ -21,7 +21,7 @@ $ git clone https://github.com/saulogp/nerdcast-clone-ui.git
 Para instalar as dependências necessárias  execute o comando abaixo.
 
 ```
-$ cd find-a-table
+$ cd nerdcast-clone-ui
 $ flutter pub get
 ```
 
